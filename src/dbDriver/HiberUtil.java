@@ -2,7 +2,6 @@ package dbDriver;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.AnnotationConfiguration;
 import org.hibernate.cfg.Configuration;
-import user.User;
 /*
  * оче сложная штука для создания sessionFactory из конфига. руками не трогать!
  */
@@ -12,9 +11,9 @@ public class HiberUtil {
         try {
                 //creates the session factory from hibernate.cfg.xml
                 
-                AnnotationConfiguration aconf = new AnnotationConfiguration()
-                .addAnnotatedClass(User.class);
-                Configuration conf = aconf.configure();
+                /*AnnotationConfiguration aconf = new AnnotationConfiguration()
+                .addAnnotatedClass(User.class);*/
+                Configuration conf = new Configuration().configure();
       	      	sessionFactory = conf.buildSessionFactory();
         } catch (Exception e) {
               e.printStackTrace();
