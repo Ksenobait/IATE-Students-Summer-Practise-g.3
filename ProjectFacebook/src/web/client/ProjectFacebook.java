@@ -1,10 +1,12 @@
 package web.client;
 
 import web.client.widgets.AccountInfoPanel;
+import web.client.widgets.HeaderPanel;
+import web.client.widgets.NavigationPanel;
 import web.shared.FieldVerifier;
 
 import com.google.gwt.core.client.EntryPoint;
-import com.google.gwt.user.client.ui.HeaderPanel;
+import com.google.gwt.user.client.ui.Button;
 import com.google.gwt.user.client.ui.Image;
 import com.google.gwt.user.client.ui.RootPanel;
 
@@ -33,8 +35,5 @@ public class ProjectFacebook implements EntryPoint {
 	public void onModuleLoad() {
 		HeaderPanel accinf = new HeaderPanel();
 		RootPanel.get("1").add(accinf);
-		/*Image img = new Image();
-		img.setUrl("http://www.google.com/images/logo.gif");
-		RootPanel.get("1").add(img);*/
 	}
 }

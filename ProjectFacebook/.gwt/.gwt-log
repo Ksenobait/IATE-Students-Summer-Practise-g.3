@@ -1,745 +1,23 @@
 Public resources found in...
 Translatable source found in...
-Found 0 cached/archived units.  Used 0 / 2719 units from cache.
-Compiling...
-   0% complete (ETR: 79 seconds)
-   10% complete (ETR: 58 seconds)
-   20% complete (ETR: 43 seconds)
-   30% complete (ETR: 29 seconds)
-   40% complete (ETR: 21 seconds)
-   50% complete (ETR: 16 seconds)
-   60% complete (ETR: 12 seconds)
-   70% complete (ETR: 9 seconds)
-   80% complete (ETR: 5 seconds)
-   90% complete (ETR: 2 seconds)
-   100% complete (ETR: 0 seconds)
-   Compilation completed in 44,60 seconds
-Removing invalidated units
-Finding entry point classes
-Public resources found in...
-Translatable source found in...
-Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
-Compiling...
-   Compilation completed in 0,00 seconds
-Removing invalidated units
-Finding entry point classes
-Public resources found in...
-Translatable source found in...
-Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
-Compiling...
-   Compilation completed in 0,03 seconds
-Removing invalidated units
-Finding entry point classes
-Public resources found in...
-Translatable source found in...
 Found 0 cached/archived units.  Used 0 / 2729 units from cache.
 Compiling...
-   20% complete (ETR: 14 seconds)
-   20% complete (ETR: 14 seconds)
-   20% complete (ETR: 14 seconds)
-   30% complete (ETR: 12 seconds)
-   40% complete (ETR: 9 seconds)
-   50% complete (ETR: 9 seconds)
-   60% complete (ETR: 7 seconds)
-   70% complete (ETR: 5 seconds)
-   80% complete (ETR: 3 seconds)
-   90% complete (ETR: 2 seconds)
-   100% complete (ETR: 0 seconds)
-   Compilation completed in 24,07 seconds
-Validating units:
-   [ERROR] Errors in 'file:/C:/Users/MtWaD/workspace/ProjectFacebook/src/web/client/AccountService.java'
-      [ERROR] Line 8: No source code is available for type logic.account.Account; did you forget to inherit a required module?
-   [ERROR] Errors in 'file:/C:/Users/MtWaD/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
-      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
-Removing invalidated units
-Finding entry point classes
-Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
-   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
-      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
-         Generating method body for notANumber()
-         Generating method body for currencyPattern()
-         Generating method body for decimalPattern()
-         Generating method body for decimalSeparator()
-         Generating method body for defCurrencyCode()
-         Generating method body for exponentialSymbol()
-         Generating method body for globalCurrencyPattern()
-         Generating method body for groupingSeparator()
-         Generating method body for infinity()
-         Generating method body for minusSign()
-         Generating method body for monetaryGroupingSeparator()
-         Generating method body for monetarySeparator()
-         Generating method body for percent()
-         Generating method body for percentPattern()
-         Generating method body for perMill()
-         Generating method body for plusSign()
-         Generating method body for scientificPattern()
-         Generating method body for simpleCurrencyPattern()
-         Generating method body for zeroDigit()
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,89 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,19 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370330622_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,07 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,05 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370333780_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370360891_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370370997_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,07 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370408783_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370428779_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370448528_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370454744_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370461159_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370469325_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370480021_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370504188_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,12 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370512517_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,09 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370516704_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,03 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370519046_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370522678_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370525509_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370528535_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370531326_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,03 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370550348_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370555203_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370557183_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370573976_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370579314_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370584815_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370589931_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370594226_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370598914_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370609729_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370612864_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,03 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370624277_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370632739_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370634796_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370649021_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,03 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370681347_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370688142_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo.AccountInfoUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfo_AccountInfoUiBinderImpl_designTime1373370690905_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Public resources found in...
-Translatable source found in...
-Found 0 cached/archived units.  Used 0 / 2719 units from cache.
-Compiling...
    0% complete (ETR: ?)
-   10% complete (ETR: 71 seconds)
-   20% complete (ETR: 51 seconds)
-   30% complete (ETR: 37 seconds)
-   40% complete (ETR: 29 seconds)
-   50% complete (ETR: 20 seconds)
-   60% complete (ETR: 14 seconds)
-   70% complete (ETR: 11 seconds)
+   10% complete (ETR: 64 seconds)
+   20% complete (ETR: 40 seconds)
+   30% complete (ETR: 31 seconds)
+   40% complete (ETR: 22 seconds)
+   50% complete (ETR: 18 seconds)
+   60% complete (ETR: 13 seconds)
+   70% complete (ETR: 9 seconds)
    80% complete (ETR: 6 seconds)
    90% complete (ETR: 3 seconds)
    100% complete (ETR: 0 seconds)
-   Compilation completed in 47,90 seconds
-Removing invalidated units
-Finding entry point classes
-Public resources found in...
-Translatable source found in...
-Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
-Compiling...
-   Compilation completed in 0,00 seconds
-Removing invalidated units
-Finding entry point classes
-Public resources found in...
-Translatable source found in...
-Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
-Compiling...
-   Compilation completed in 0,11 seconds
-Removing invalidated units
-Finding entry point classes
-Public resources found in...
-Translatable source found in...
-Found 2719 cached/archived units.  Used 2719 / 2728 units from cache.
-Compiling...
-   Compilation completed in 1,21 seconds
+   Compilation completed in 30,98 seconds
 Validating units:
-   [ERROR] Errors in 'file:/C:/Users/MtWaD/workspace/ProjectFacebook/src/web/client/AccountService.java'
-      [ERROR] Line 8: No source code is available for type logic.account.Account; did you forget to inherit a required module?
-   [ERROR] Errors in 'file:/C:/Users/MtWaD/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
-      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
-Removing invalidated units
-Finding entry point classes
-Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
-   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
-      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
-         Generating method body for notANumber()
-         Generating method body for currencyPattern()
-         Generating method body for decimalPattern()
-         Generating method body for decimalSeparator()
-         Generating method body for defCurrencyCode()
-         Generating method body for exponentialSymbol()
-         Generating method body for globalCurrencyPattern()
-         Generating method body for groupingSeparator()
-         Generating method body for infinity()
-         Generating method body for minusSign()
-         Generating method body for monetaryGroupingSeparator()
-         Generating method body for monetarySeparator()
-         Generating method body for percent()
-         Generating method body for percentPattern()
-         Generating method body for perMill()
-         Generating method body for plusSign()
-         Generating method body for scientificPattern()
-         Generating method body for simpleCurrencyPattern()
-         Generating method body for zeroDigit()
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,25 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,17 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373372560691_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,04 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373372564495_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,31 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373372646533_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,06 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373372677666_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373372679646_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373372681922_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373372683586_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,07 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373372694117_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373372702235_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Public resources found in...
-Translatable source found in...
-Found 2719 cached/archived units.  Used 2719 / 2729 units from cache.
-Compiling...
-   Compilation completed in 0,13 seconds
-Validating units:
-   [ERROR] Errors in 'file:/C:/Users/MtWaD/workspace/ProjectFacebook/src/web/client/AccountService.java'
-      [ERROR] Line 8: No source code is available for type logic.account.Account; did you forget to inherit a required module?
-   [ERROR] Errors in 'file:/C:/Users/MtWaD/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
-      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
-Removing invalidated units
-Finding entry point classes
-Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
-   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
-      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
-         Generating method body for notANumber()
-         Generating method body for currencyPattern()
-         Generating method body for decimalPattern()
-         Generating method body for decimalSeparator()
-         Generating method body for defCurrencyCode()
-         Generating method body for exponentialSymbol()
-         Generating method body for globalCurrencyPattern()
-         Generating method body for groupingSeparator()
-         Generating method body for infinity()
-         Generating method body for minusSign()
-         Generating method body for monetaryGroupingSeparator()
-         Generating method body for monetarySeparator()
-         Generating method body for percent()
-         Generating method body for percentPattern()
-         Generating method body for perMill()
-         Generating method body for plusSign()
-         Generating method body for scientificPattern()
-         Generating method body for simpleCurrencyPattern()
-         Generating method body for zeroDigit()
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373374254758_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373374255734_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373374285734_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,06 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373374315262_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,02 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373374323350_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
-   Adding '3' new generated units
-      Compiling...
-         Compilation completed in 0,09 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373374358484_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,11 seconds
-      Removing invalidated units
-Public resources found in...
-Translatable source found in...
-Found 0 cached/archived units.  Used 0 / 2727 units from cache.
-Compiling...
-   20% complete (ETR: 13 seconds)
-   20% complete (ETR: 13 seconds)
-   20% complete (ETR: 13 seconds)
-   30% complete (ETR: 12 seconds)
-   40% complete (ETR: 9 seconds)
-   50% complete (ETR: 9 seconds)
-   60% complete (ETR: 7 seconds)
-   70% complete (ETR: 6 seconds)
-   80% complete (ETR: 4 seconds)
-Public resources found in...
-Translatable source found in...
-Found 0 cached/archived units.  Used 0 / 2728 units from cache.
-Compiling...
-   10% complete (ETR: 22 seconds)
-   10% complete (ETR: 22 seconds)
-   20% complete (ETR: 21 seconds)
-   30% complete (ETR: 23 seconds)
-   40% complete (ETR: 16 seconds)
-   50% complete (ETR: 13 seconds)
-   60% complete (ETR: 11 seconds)
-   70% complete (ETR: 8 seconds)
-   80% complete (ETR: 6 seconds)
-   90% complete (ETR: 3 seconds)
-   100% complete (ETR: 0 seconds)
-   Compilation completed in 32,88 seconds
-Validating units:
-   [ERROR] Errors in 'file:/C:/Users/MtWaD/workspace/ProjectFacebook/src/web/client/AccountService.java'
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
       [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
-   [ERROR] Errors in 'file:/C:/Users/MtWaD/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
       [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
 Removing invalidated units
 Finding entry point classes
@@ -767,14 +45,282 @@ Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
          Generating method body for zeroDigit()
    Adding '3' new generated units
       Compiling...
-         Compilation completed in 0,02 seconds
+         Compilation completed in 0,20 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] No class matching "Cell" in urn:import:com.google.gwt.user.client.ui: <g:Cell horizontalAlignment='ALIGN_CENTER' verticalAlignment='ALIGN_MIDDLE' width='150'> (:8)
+[ERROR] Deferred binding failed for 'web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2726 cached/archived units.  Used 2726 / 2729 units from cache.
+Compiling...
+   Compilation completed in 0,97 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
       Removing invalidated units
 Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
    Adding '3' new generated units
       Compiling...
+         Compilation completed in 0,25 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435739255.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435739255.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,10 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435739255_GenBundle
+   Adding '1' new generated units
+      Compiling...
          Compilation completed in 0,04 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373398396196_GenBundle
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,09 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435743732.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435743732.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435743732_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435788757.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435788757.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435788757_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435803059.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435803059.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435803059_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435839520.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435839520.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435839520_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435846695.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435846695.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,09 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435846695_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435874951.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435874951.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435874951_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435901084.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435901084.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435901084_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435929957.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435929957.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373435929957_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2728 cached/archived units.  Used 2728 / 2729 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373435971725.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373435971725.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373435971725_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
@@ -783,6 +329,428 @@ Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
    Adding '3' new generated units
       Compiling...
          Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373435972768.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373435972768.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373435972768_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373435990650.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373435990650.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373435990650_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373435994618.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373435994618.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373435994618_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373436001872.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373436001872.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373436001872_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373436008798.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373436008798.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373436008798_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373436026690.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373436026690.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373436026690_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373436037401.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373436037401.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373436037401_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2728 cached/archived units.  Used 2728 / 2729 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436068793.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436068793.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436068793_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,06 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436069749.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436069749.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436069749_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,06 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436214671_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436214948_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436223486_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436271971_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436280622_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2728 cached/archived units.  Used 2728 / 2729 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436338595_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,11 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436339313_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Class AbsolutePanel has no appropriate setTop() method: <g:AbsolutePanel height='150px' left='0' top='0' width='650px'> (:9)
+[ERROR] Deferred binding failed for 'web.client.widgets.HeaderPanel.HeaderPanelUiBinder'; expect subsequent failures
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,11 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373436436468.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373436436468.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373436436468_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2728 cached/archived units.  Used 2728 / 2729 units from cache.
+Compiling...
+   Compilation completed in 0,05 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436501540_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
       Removing invalidated units
 Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_GenBundle
    Adding '1' new generated units
@@ -794,7 +762,7 @@ Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373398398155_GenBundle
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436502323_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
@@ -802,9 +770,9 @@ Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime13733
 Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
    Adding '3' new generated units
       Compiling...
-         Compilation completed in 0,02 seconds
+         Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373398633270_GenBundle
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436522529_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
@@ -812,9 +780,9 @@ Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime13733
 Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
    Adding '3' new generated units
       Compiling...
-         Compilation completed in 0,02 seconds
+         Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373398647692_GenBundle
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436525707_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
@@ -822,19 +790,152 @@ Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime13733
 Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
    Adding '3' new generated units
       Compiling...
-         Compilation completed in 0,02 seconds
+         Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373398651867_GenBundle
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436529121_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
 Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436538666_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373436554842_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Class AbsolutePanel has no appropriate setTop() method: <g:AbsolutePanel height='100' left='10' top='40' width='450'> (:9)
+[ERROR] Deferred binding failed for 'web.client.widgets.HeaderPanel.HeaderPanelUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2727 cached/archived units.  Used 2727 / 2729 units from cache.
+Compiling...
+   Compilation completed in 0,07 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Class AbsolutePanel has no appropriate setTop() method: <g:AbsolutePanel height='100px' left='10' top='40' width='450px'> (:9)
+[ERROR] Deferred binding failed for 'web.client.widgets.HeaderPanel.HeaderPanelUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2729 units from cache.
+Compiling...
+   10% complete (ETR: 27 seconds)
+   10% complete (ETR: 27 seconds)
+   20% complete (ETR: 24 seconds)
+   30% complete (ETR: 24 seconds)
+   40% complete (ETR: 21 seconds)
+   50% complete (ETR: 18 seconds)
+   60% complete (ETR: 15 seconds)
+   70% complete (ETR: 11 seconds)
+   80% complete (ETR: 8 seconds)
+   90% complete (ETR: 4 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 42,90 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373439664776_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 1,99 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
    Adding '3' new generated units
       Compiling...
          Compilation completed in 0,03 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373398653765_GenBundle
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
@@ -842,182 +943,1188 @@ Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime13733
 Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
    Adding '3' new generated units
       Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373439667393_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2726 cached/archived units.  Used 2726 / 2729 units from cache.
+Compiling...
+   Compilation completed in 0,02 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373442001716_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373442002323_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373442066755_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373442069800_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Class AbsolutePanel has no appropriate setTop() method: <g:AbsolutePanel left='0' top='0'> (:7)
+[ERROR] Deferred binding failed for 'web.client.widgets.NavigationPanel.NavigationPanelUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2726 cached/archived units.  Used 2726 / 2729 units from cache.
+Compiling...
+   Compilation completed in 0,04 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373442223826_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373442224331_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
          Compilation completed in 0,05 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399105042.Template
-   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
-      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399105042.Template
-         Generating method body for html1()
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373442237275_GenBundle
    Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 1,67 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373442338166_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373442340030_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 2,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373444935463_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,06 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2729 units from cache.
+Compiling...
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2719 units from cache.
+Compiling...
+   0% complete (ETR: 63 seconds)
+   10% complete (ETR: 55 seconds)
+   20% complete (ETR: 38 seconds)
+   30% complete (ETR: 28 seconds)
+   40% complete (ETR: 23 seconds)
+   50% complete (ETR: 17 seconds)
+   60% complete (ETR: 12 seconds)
+   70% complete (ETR: 8 seconds)
+   80% complete (ETR: 5 seconds)
+   90% complete (ETR: 3 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 30,25 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Removing invalidated units
+Finding entry point classes
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2728 units from cache.
+Compiling...
+   40% complete (ETR: 9 seconds)
+   40% complete (ETR: 9 seconds)
+   40% complete (ETR: 9 seconds)
+   40% complete (ETR: 9 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 7 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 14,92 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,63 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,59 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373451903831_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,37 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,08 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,43 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,06 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373451908175_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2728 units from cache.
+Compiling...
+   30% complete (ETR: 11 seconds)
+   30% complete (ETR: 11 seconds)
+   30% complete (ETR: 11 seconds)
+   30% complete (ETR: 11 seconds)
+   40% complete (ETR: 10 seconds)
+   50% complete (ETR: 7 seconds)
+   60% complete (ETR: 6 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 2 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 17,21 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452280276_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452281087_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452298949_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452304231_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452310472_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
       Compiling...
          Compilation completed in 0,04 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399105042_GenBundle
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452320278_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
    Adding '3' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399105612.Template
-   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
-      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399105612.Template
-         Generating method body for html1()
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452340486_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399105612_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
    Adding '3' new generated units
       Compiling...
-         Compilation completed in 0,10 seconds
+         Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399115417.Template
-   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
-      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399115417.Template
-         Generating method body for html1()
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452345897_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399115417_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
    Adding '3' new generated units
       Compiling...
          Compilation completed in 0,02 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399117772.Template
-   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
-      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399117772.Template
-         Generating method body for html1()
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,05 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399117772_GenBundle
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452349984_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
    Adding '3' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399120523.Template
-   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
-      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399120523.Template
-         Generating method body for html1()
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452369278_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399120523_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
    Adding '3' new generated units
       Compiling...
          Compilation completed in 0,02 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399218065.Template
-   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
-      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399218065.Template
-         Generating method body for html1()
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452371394_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399218065_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
    Adding '3' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399218246.Template
-   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
-      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399218246.Template
-         Generating method body for html1()
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452383352_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399218246_GenBundle
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452386637_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452392517_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452402097_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2728 cached/archived units.  Used 2728 / 2728 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373452414985_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,16 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373452416048_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
 Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373452430008_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373452432286_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373452433951_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373452435542_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373452437270_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373452439046_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373452441429_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2727 cached/archived units.  Used 2727 / 2728 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373452452667_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373452453532_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2728 cached/archived units.  Used 2728 / 2728 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,16 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373452513830_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373452514720_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452542299_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452543099_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452543946_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452548778_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452571499_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452575214_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452580814_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452584369_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452587477_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452591335_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452598185_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452600404_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452604246_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
    Adding '3' new generated units
       Compiling...
          Compilation completed in 0,07 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399327305.Template
-   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
-      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399327305.Template
-         Generating method body for html1()
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452613570_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399327305_GenBundle
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452618317_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452629614_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452632206_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452634886_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452638687_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452642908_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452673370_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452679520_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452688209_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452694615_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452698558_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
    Adding '3' new generated units
       Compiling...
          Compilation completed in 0,03 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399327477.Template
-   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
-      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399327477.Template
-         Generating method body for html1()
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452705866_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399327477_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
    Adding '3' new generated units
       Compiling...
-         Compilation completed in 0,20 seconds
+         Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399562681.Template
-   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
-      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399562681.Template
-         Generating method body for html1()
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452714143_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399562681_GenBundle
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452722083_GenBundle
    Adding '1' new generated units
       Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452728748_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452731742_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373452756512_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373452761011_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_designTime1373452766104_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2726 cached/archived units.  Used 2726 / 2728 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
          Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373452776164_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,08 seconds
       Removing invalidated units
 Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
    Adding '3' new generated units
@@ -1030,90 +2137,530 @@ Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_GenBund
          Compilation completed in 0,01 seconds
       Removing invalidated units
 Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373452777049_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
    Adding '3' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399563117.Template
-   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
-      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399563117.Template
-         Generating method body for html1()
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452849378_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399563117_GenBundle
-   Adding '1' new generated units
-      Compiling...
-         Compilation completed in 0,01 seconds
-      Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
    Adding '3' new generated units
       Compiling...
          Compilation completed in 0,02 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399588683.Template
-   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
-      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399588683.Template
-         Generating method body for html1()
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452858062_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373399588683_GenBundle
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452871994_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452875611_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452884476_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452886486_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452895890_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
    Adding '3' new generated units
       Compiling...
          Compilation completed in 0,04 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373400237916_GenBundle
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452899149_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452903361_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_designTime1373452909479_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2727 cached/archived units.  Used 2727 / 2728 units from cache.
+Compiling...
+   Compilation completed in 0,01 seconds
+Validating units:
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountService.java'
+      [ERROR] Line 7: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/D:/workspace/ProjectFacebook/src/web/client/AccountServiceAsync.java'
+      [ERROR] Line 9: No source code is available for type logic.account.Account; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373452917513_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel.AccountInfoPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.AccountInfoPanel_AccountInfoPanelUiBinderImpl_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel.NavigationPanelUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.NavigationPanel_NavigationPanelUiBinderImpl_GenBundle
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
 Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
-   Adding '3' new generated units
+   Adding '2' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373400238060_GenBundle
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373452918468_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453481900.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453481900.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
    Adding '1' new generated units
       Compiling...
          Compilation completed in 0,01 seconds
       Removing invalidated units
-Public resources found in...
-Translatable source found in...
-Found 0 cached/archived units.  Used 0 / 2719 units from cache.
-Compiling...
-   0% complete (ETR: 88 seconds)
-   10% complete (ETR: 62 seconds)
-   20% complete (ETR: 36 seconds)
-   30% complete (ETR: 25 seconds)
-   40% complete (ETR: 22 seconds)
-   50% complete (ETR: 16 seconds)
-   60% complete (ETR: 11 seconds)
-   70% complete (ETR: 8 seconds)
-   80% complete (ETR: 5 seconds)
-   90% complete (ETR: 2 seconds)
-   100% complete (ETR: 0 seconds)
-   Compilation completed in 35,25 seconds
-Removing invalidated units
-Finding entry point classes
-Public resources found in...
-Translatable source found in...
-Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
-Compiling...
-   Compilation completed in 0,00 seconds
-Removing invalidated units
-Finding entry point classes
-Public resources found in...
-Translatable source found in...
-Found 2719 cached/archived units.  Used 2719 / 2719 units from cache.
-Compiling...
-   Compilation completed in 0,00 seconds
-Removing invalidated units
-Finding entry point classes
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453481900_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453482266.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453482266.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453482266_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453502118.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453502118.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453502118_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453511514.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453511514.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453511514_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453521968.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453521968.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453521968_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453609903.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453609903.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453609903_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453610002.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453610002.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453610002_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453622524.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453622524.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453622524_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453627653.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453627653.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453627653_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453642756.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453642756.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453642756_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453645933.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453645933.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453645933_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453656287.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453656287.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453656287_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453710482.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453710482.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453710482_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453714446.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453714446.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453714446_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453725072.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453725072.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453725072_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453730901.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453730901.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453730901_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel.HeaderPanelUiBinder
+   Adding '2' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453733225.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453733225.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding web.client.widgets.HeaderPanel_HeaderPanelUiBinderImpl_designTime1373453733225_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units

@@ -10,6 +10,7 @@ import com.google.gwt.user.client.ui.Widget;
 public class NavigationPanel extends Composite {
 	
 	interface NavigationPanelUiBinder extends UiBinder<Widget, NavigationPanel> {}
+	
 	private static NavigationPanelUiBinder uiBinder = GWT
 			.create(NavigationPanelUiBinder.class);
 	
